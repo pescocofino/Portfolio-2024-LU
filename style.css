@@ -9,3 +9,15 @@
     --red-pantone: #ef233cff;
     --fire-engine-red: #d90429ff;
 }
+
+body{
+    font-family: var(--fonte-principal);
+    background-color: var(--space-cadet);
+}
+
+h1{
+ color: var(--antiflash-white);
+ 
+
+}
+
